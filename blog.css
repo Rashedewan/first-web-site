@@ -4,3 +4,16 @@ div{
     padding: 10px;
     margin-bottom: 10px;
 }
+
+.plan{
+    margin: 10px;
+    padding: 10px;
+    display: inline;
+    box-shadow: 10px 10px 5px #065771;
+    font-size: 16px;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+}
